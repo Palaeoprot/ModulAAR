@@ -1,3 +1,4 @@
+!["ModulAAR Logo"](ModulAAR.png)
 # MoDuLAAR - Modeling and Analyzing Racemization in Amino Acids
 
 MoDuLAAR is a comprehensive toolkit designed to model and analyze racemization processes in amino acids. This project integrates data processing, dehydration analysis, racemization simulation, parameter optimization, and result visualization to provide a robust framework for studying amino acid kinetics.
